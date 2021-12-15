@@ -2,7 +2,7 @@
 Chess engine made with Java and used with XBoard for a college project.
 
  
-----------------------------------------------------Etapa 1---------------------------------------------------
+----------Etapa 1-------------
 
  -----------------------------
 | Instructiuni de compilare:  |
@@ -35,7 +35,7 @@ Am folosit:
 - indexare in vector -> O(1);
 - cautare in matrice -> O(n^2); unde n = 8 (dimensiunea tablei de joc).
 
--------------------------------------------------Etapa 2-----------------------------------------------------
+-----------Etapa 2------------
 
  -----------------------------
 | Instructiuni de rulare:  |
